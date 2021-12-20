@@ -25,7 +25,7 @@ Here is a working live demo [here](https://defimarket.vercel.app/)
 ## Key Features
 
 - Tokens Payment Processing
-- Authentication
+- Authentication via wallet
 - API Product Data Fetchcing
 - Orders Stored in Database using Webhook
 - Persist App State
