@@ -58,8 +58,7 @@ const initialState: StateType = {
   provider: null,
   web3Provider: null,
   address: null || '',
-  /* tslint:disable-next-line */
-  chainId: null,
+  chainId: null || 56,
 };
 
 function reducer(state: StateType, action: ActionType): StateType {
