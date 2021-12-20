@@ -21,7 +21,7 @@ const CartEmpty: React.FC<CartEmptyProps> = () => {
           className="py-4 px-8 absolute"
         />
       </div>
-      <div className="bg-white rounded-lg shadow-sm items-start p-6 md:p-8">
+      <div className="rounded-lg shadow-sm items-start p-6 md:p-8">
         <h4 className="text-2xl mb-2 font-semibold">Your cart feels lonely.</h4>
         <p className="mb-12">
           Your shopping cart lives to serve. Give it purpose - fill it with

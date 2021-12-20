@@ -18,7 +18,7 @@ const HeaderResults: React.FC<HeaderResultsProps> = () => {
           className="max-w-xl max-h-80 md:max-h-96
           overflow-scroll scrollbar-hide my-4 mx-6 md:m-4
           rounded-2xl shadow-md absolute top-full right-0
-          md:right-12 z-50 bg-white"
+          md:right-12 z-50 bg-[#59629e]"
           style={{ width: "calc(100% - 2rem)" }}
         >
           {results.map((result) => (

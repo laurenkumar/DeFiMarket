@@ -50,7 +50,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ providers }) => {
         {({ handleSubmit, errors }) => (
           <Form onSubmit={handleSubmit} autoComplete="off">
             <FormError error={errors.error} />
-            <TextInput name="email" label="Email" type="text" />
+            <TextInput name="email" label="Email" />
             <PasswordInput name="password" label="Password" />
             <Button
               className="w-full uppercase !transform-none mt-4"

@@ -19,7 +19,7 @@ const ProductImage: React.FC<ProductImageProps> = ({
       {discount && (
         <span
           className="absolute transform translate-x-1/2 -translate-y-full
-          rotate-45 top-12 right-8 z-10 py-[0.33rem] px-12 bg-[#f90]
+          rotate-45 top-12 right-8 z-10 py-[0.33rem] px-12 bg-[#59629e]
           text-white text-sm font-bold shadow-md"
         >
           Offer!

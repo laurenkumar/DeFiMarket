@@ -1,21 +1,12 @@
 <h1 align="center">
-  <a href="https://amazon-clone-martstech.vercel.app/">
-      <img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1000px-Amazon_logo.svg.png" alt="Amazon Logo" />
-  </a>
   <br />
-  Amazon-clone
+  DeFiMartket
   <br />
 </h1>
 
 <h4 align="center">
-   Amazon Clone created with Next.JS</a>.
+   DeFiMarket, a decentralized marketplace created with Next.JS</a>.
 </h4>
-
-<p align="center">
-   <img src="https://img.shields.io/github/v/release/MartsTech/amazon-clone" alt="Release" />
-   <img src="https://vercelbadge.vercel.app/api/MartsTech/amazon-clone" alt="Deployment" />
-   <img src="https://img.shields.io/github/license/MartsTech/amazon-clone" alt="License" />
-</p>
 
 <p align="center">
   <a href="#demo">Demo</a> •
@@ -46,7 +37,7 @@ Here is a working live demo [here](https://amazon-clone-martstech.vercel.app/)
 
 ## Key Features
 
-- Payment Processing
+- Tokens Payment Processing
 - Authentication
 - API Product Data Fetchcing
 - Orders Stored in Database using Webhook
@@ -61,13 +52,13 @@ Here is a working live demo [here](https://amazon-clone-martstech.vercel.app/)
 ## Key Technologies
 
 - Next.JS
-- Stripe
-- Firebase
+- Stripe for now
+- Firebase to migrate to GunDb
 - TailwindCSS
 - Mobx
 - Webhooks
 - NextAuth
-- Fake Store API
+- Fake Store API to remove on launch
 
 ---
 
@@ -86,14 +77,8 @@ Test card: 4242 4242 4242 4242
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
-<a href="https://www.buymeacoffee.com/martstech" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-</a>
+<script type="text/javascript" src="https://buymeacryptocoffee.xyz/buttonwidget.js" data-address="0xcc91e29cd39e620cf4e84c1d036ce0a97c584e34" data-name="crypto-coffee-button" ></script>
 
----
+Or
 
-## License
-
-> You can check out the full license [here](https://github.com/MartsTech/amazon-clone/blob/main/LICENSE)
-
-This project is licensed under the terms of the **MIT** license
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Moonmarket" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>

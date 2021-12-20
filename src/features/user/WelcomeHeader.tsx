@@ -21,8 +21,9 @@ const WelcomeHeader: React.FC<WelcomeHeaderProps> = () => {
           Welcome {session?.user?.name}
         </h3>
         <p className="max-w-[480px] mb-8 opacity-50">
-          Your Amazon Account is created and we would like to know a little bit
-          more about yourself. These details will be saved for future orders.
+          Your DeFiMarket Account is created and we would like to know a little
+          bit more about yourself. These details will be saved for future
+          orders.
         </p>
       </span>
     </div>

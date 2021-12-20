@@ -5,8 +5,8 @@ import { AppProps } from "next/app";
 import "react-toastify/dist/ReactToastify.min.css";
 import { store, StoreContext } from "stores/store";
 import "styles/globals.css";
-import { Web3ReactProvider } from '@web3-react/core';
-import { ethers } from 'ethers';
+import { Web3ReactProvider } from "@web3-react/core";
+import { ethers } from "ethers";
 
 const POLLING_INTERVAL = 12000;
 

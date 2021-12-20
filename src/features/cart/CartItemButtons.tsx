@@ -20,15 +20,15 @@ const CartItemButtons: React.FC<CartItemButtonsProps> = ({ item }) => {
       >
         <button
           className="bg-[#eee] border-none w-6 h-6
-                text-sm transition-all duration-200"
+                text-black transition-all duration-200"
           onClick={() => removeFromCart(id)}
         >
           -
         </button>
-        <span className="p-2">{quantity}</span>
+        <span className="p-2 text-black">{quantity}</span>
         <button
           className="bg-[#eee] border-none w-6 h-6
-                text-sm transition-all duration-200"
+                text-black transition-all duration-200"
           onClick={() => addToCart(item)}
         >
           +

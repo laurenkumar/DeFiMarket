@@ -48,7 +48,7 @@
 
 .check > input[type="checkbox"] + label::after,
 .check > input[type="radio"] + label::after {
-  background: #f90;
+  background: #59629e;
   border: none;
   transform: scale(0);
   transition: all 0.2s;

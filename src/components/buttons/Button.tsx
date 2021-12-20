@@ -25,13 +25,13 @@ const Button: React.FC<ButtonProps> = ({
     ${disabled && "opacity-50 hover:scale-100 "}
     ${className} ${
         variant == "primary"
-          ? "bg-[#f90] hover:scale-105"
+          ? "bg-[#59629e] hover:scale-105"
           : variant == "secondary"
           ? "bg-[#1a1a2c]"
           : variant == "outlined"
           ? "bg-none text-gray-400 font-medium !border-2 !border-solid !border-gray-300"
           : variant === "red"
-          ? "bg-[#dc143c] text-white border-none h-6 rounded-md ml-2"
+          ? "bg-[#dc143c] text-white"
           : "none"
       }`}
       style={{

@@ -9,7 +9,7 @@ const DefaultLayout: React.FC<DefaultLayoutProps> = ({ children }) => {
   return (
     <div
       className="w-screen min-h-screen relative 
-      bg-[#fafafa] flex flex-col"
+      bg-[#27262c] flex flex-col text-white"
     >
       <Sidebar />
       <div

@@ -10,7 +10,7 @@ const createNewPayment = async (req: NextApiRequest, res: NextApiResponse) => {
   const paymentIntent = await stripe.paymentIntents.create({
     amount: total * 100,
     currency: "USD",
-    description: `Amazon Clone Order for ${total.toFixed(2)} USD: ${desc}`,
+    description: `DeFiMarket Order for ${total.toFixed(2)} USD: ${desc}`,
   });
 
   res.status(200).json({

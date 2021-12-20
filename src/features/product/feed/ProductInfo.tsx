@@ -28,7 +28,7 @@ const ProductInfo: React.FC<ProductInfoProps> = ({
           )}
         </p>
         <div className="text-base">
-          <StarRateRoundedIcon style={{ color: "#f90" }} />
+          <StarRateRoundedIcon style={{ color: "#59629e" }} />
           {5}
         </div>
       </div>

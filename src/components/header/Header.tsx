@@ -1,6 +1,6 @@
 import HeaderBackButton from "./HeaderBackButton";
 import HeaderSearch from "./HeaderSearch";
-import Wallet from "components/wallet/Wallet"
+import Wallet from "components/wallet/Wallet";
 
 interface HeaderProps {}
 
@@ -10,13 +10,6 @@ const Header: React.FC<HeaderProps> = () => {
       <HeaderBackButton />
       <HeaderSearch />
       <Wallet />
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        loading="lazy"
-        className="h-8 ml-4 hidden sm:inline"
-        src={"/icons/logo.svg"}
-        alt="logo"
-      />
     </div>
   );
 };

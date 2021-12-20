@@ -10,7 +10,7 @@ const PaymentSummary: React.FC<PaymentSummaryProps> = () => {
 
   return (
     <div
-      className="flex-[40%] max-w-[40%] bg-white 
+      className="flex-[40%] max-w-[40%]
       rounded-lg shadow-lg self-start p-8"
     >
       <h5 className="text-xl font-semibold">Order Summary</h5>

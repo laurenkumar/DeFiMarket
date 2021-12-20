@@ -12,7 +12,7 @@ const ProductCategories: React.FC<ProductCategoriesProps> = () => {
       {categories.map((category, index) => (
         <ProductCategory key={index} category={category} />
       ))}
-      <div className="absolute top-0 right-0 bg-gradient-to-l from-gray-50 h-10 w-1/12" />
+      <div className="absolute top-0 right-0 bg-gradient-to-l from-[#27262c] h-10 w-1/12" />
     </div>
   );
 };

@@ -17,7 +17,7 @@ const CartItem: React.FC<CartItemProps> = ({ item }) => {
       animate="in"
       exit="out"
       variants={errorAnimation}
-      className="flex w-full bg-white rounded-lg overflow-hidden
+      className="flex w-full bg-[#1a1a2c] rounded-lg overflow-hidden
       shadow-md transition-all duration-200 transform hover:scale-105
       hover:shadow-lg"
     >

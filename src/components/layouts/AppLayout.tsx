@@ -23,7 +23,7 @@ const AppLayout: React.FC<AppLayoutProps> = ({ children }) => {
     <>
       <RouteChange />
       <ToastContainer position="bottom-right" hideProgressBar />
-      <LoadingBar ref={loadingBar} height={3} color="#f90" shadow={true} />
+      <LoadingBar ref={loadingBar} height={3} color="#59629e" shadow={true} />
       {children}
     </>
   );

@@ -7,7 +7,7 @@ interface FooterProps {}
 const Footer: React.FC<FooterProps> = () => {
   return (
     <div
-      className="mt-auto bg-[#eaeaea] flex flex-col w-full
+      className="mt-auto flex flex-col w-full
       sm:pl-24 mx-auto"
     >
       <FooterDisclaimer />

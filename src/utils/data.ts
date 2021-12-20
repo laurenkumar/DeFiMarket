@@ -32,38 +32,15 @@ export const currency = ["$ - USD", "₹ - INR", "£ - GBP", "€ - EUR", "¥ - 
 export const footerLinks = [
   {
     title: "Get to Know Us",
-    list: ["About Amazon", "Connect with Us", "Amazon Cares", "Gift a Smile"],
+    list: ["About DefiMarket", "Connect with Us", "Donation"],
   },
   {
-    title: "Make Money with Us",
-    list: [
-      "Sell products on Amazon",
-      "Sell apps on Amazon",
-      "Become an Affiliate",
-      "Advertise Your Products",
-      "Self-Publish with Us",
-      "Host an Amazon Hub",
-      "› See More",
-    ],
-  },
-  {
-    title: "Amazon Payment",
-    list: [
-      "Amazon Business Card",
-      "Shop with Points",
-      "Reload Your Balance",
-      "Amazon Currency Converter",
-    ],
+    title: "DefiMarket Payment",
+    list: ["Tokens enlisted", "Stripe"],
   },
   {
     title: "Let Us Help You",
-    list: [
-      "Amazon and COVID-19",
-      "Shipping Rates & Policies",
-      "Returns & Replacements",
-      "Manage Your Devices",
-      "Amazon Assistant",
-    ],
+    list: ["How to connect", "Choose a wallet", "Manage Your Devices"],
   },
 ];
 

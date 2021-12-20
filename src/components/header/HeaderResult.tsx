@@ -26,10 +26,10 @@ const HeaderResult: React.FC<HeaderResultProps> = ({
         router.push(`/product/${id}`);
       }}
       className="flex items-center transition-colors duration-200
-    cursor-pointer hover:bg-gray-100"
+    cursor-pointer hover:bg-black"
     >
       <div
-        className="bg-white flex items-center justify-center"
+        className="bg-gray flex items-center justify-center"
         style={{ flex: " 0 0 4.5rem" }}
       >
         <Image

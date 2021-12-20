@@ -34,7 +34,7 @@ const SidebarMenuItem: React.FC<SidebarMenuItemProps> = ({
           className={`!text-4xl !transition-all !duration-200
           transform scale-90 hover:scale-105 ${
             active
-              ? "fill-[#1a1a2c] scale-100"
+              ? "text-black scale-100"
               : "!fill-[transparent] stroke-1 stroke-[#1a1a2c]"
           }`}
         />
@@ -42,7 +42,7 @@ const SidebarMenuItem: React.FC<SidebarMenuItemProps> = ({
           <span
             suppressHydrationWarning
             className="absolute pt-[0.15rem] text-xs text-center
-            w-5 h-5 bg-[#f90] text-white font-bold
+            w-5 h-5 bg-[#59629e] text-white font-bold
             left-6 bottom-5 rounded-full"
           >
             {count}

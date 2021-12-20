@@ -5,7 +5,7 @@ interface FooterBottomProps {}
 const FooterBottom: React.FC<FooterBottomProps> = () => {
   return (
     <div
-      className="py-8 px-12 flex-col items-center bg-[#eaeaea]
+      className="py-8 px-12 flex-col items-center
     border-t border-[rgba(26, 26, 44, 0.05)] md:flex"
     >
       <Image
@@ -19,9 +19,9 @@ const FooterBottom: React.FC<FooterBottomProps> = () => {
         &copy; 2020 | Developed by{" "}
         <a
           href="https://github.com/laurenkumar/"
-          className="text-[#f90] transition-all duration-200 
-          border-b border-dotted border-[#f90]
-          hover:text-[#dc143c] hover:border-[#dc143c]"
+          className="text-white transition-all duration-200 
+          border-b border-dotted border-white
+          hover:text-[#59629e] hover:border-[#59629e]"
         >
           LaurenKumar
         </a>

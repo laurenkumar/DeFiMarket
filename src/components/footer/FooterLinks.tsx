@@ -12,7 +12,7 @@ const FooterLinks: React.FC<FooterLinksProps> = ({}) => {
             {link.list.map((item, index) => (
               <li
                 key={index}
-                className="mb-2 text-sm opacity-60 text-[#1a1a2c]
+                className="mb-2 text-sm opacity-60 text-white
                 transition-all duration-200 whitespace-nowrap
                 hover:opacity-100 cursor-pointer"
               >

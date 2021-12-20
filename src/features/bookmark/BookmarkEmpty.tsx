@@ -21,7 +21,7 @@ const BookmarkEmpty: React.FC<BookmarkEmptyProps> = () => {
           className="py-4 px-8 absolute bg-gray-200"
         />
       </div>
-      <div className="bg-white rounded-lg shadow-sm items-start p-6 md:p-8 text-xl">
+      <div className="rounded-lg shadow-sm items-start p-6 md:p-8 text-xl">
         <h4 className="text-2xl mb-2 font-semibold">Its empty here.</h4>
         <p className="mb-12">
           Somethings catching your eye? Add your favorite items to Bookmarks,

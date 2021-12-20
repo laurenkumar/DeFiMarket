@@ -14,7 +14,7 @@ const CenterLayout: React.FC<CenterLayoutProps> = ({ children }) => {
       className="flex-grow flex justify-center items-center"
     >
       <div
-        className="m-12 mt-20 py-8 px-4 bg-white
+        className="m-12 mt-20 py-8 px-4
         rounded-lg overflow-hidden drop-shadow-xl shadow-xl"
       >
         {children}
