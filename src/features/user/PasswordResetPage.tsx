@@ -49,7 +49,6 @@ const PasswordResetPage: React.FC<PasswordResetPageProps> = () => {
             <TextInput
               name="email"
               label="Email"
-              placeholder="Email"
               type="text"
             />
             <Button
