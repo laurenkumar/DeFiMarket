@@ -8,7 +8,7 @@
    DeFiMarket, a decentralized marketplace created with Next.JS</a>.
 </h4>
 
-<p align="center">
+<p align="center">•
   <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
