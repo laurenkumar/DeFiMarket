@@ -58,6 +58,7 @@ const initialState: StateType = {
   provider: null,
   web3Provider: null,
   address: null || '',
+  /* tslint:disable-next-line */
   chainId: null,
 };
 
