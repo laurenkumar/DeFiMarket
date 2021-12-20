@@ -77,8 +77,12 @@ Test card: 4242 4242 4242 4242
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
-<script type="text/javascript" src="https://buymeacryptocoffee.xyz/buttonwidget.js" data-address="0xcc91e29cd39e620cf4e84c1d036ce0a97c584e34" data-name="crypto-coffee-button" ></script>
+<a href="https://www.buymeacryptocoffee.xyz/0xcc91e29cd39e620cf4e84c1d036ce0a97c584e34">
+  <img src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fembedbadge.c3d8c4bf5cf54409f43e2107e550bb11.svg&w=256&q=75">
+</a>
 
 Or
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Moonmarket" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://buymeacoffee.com/DeFiMarket">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Buy_Me_a_Coffee_Logo.png/1280px-Buy_Me_a_Coffee_Logo.png">
+</a>
