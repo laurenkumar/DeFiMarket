@@ -5,6 +5,7 @@
     "lib": ["dom", "dom.iterable", "es6", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
+    "strictNullChecks": false,
     "strict": true,
     "removeComments": true,
     "noImplicitAny": true,
