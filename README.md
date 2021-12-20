@@ -17,18 +17,6 @@
   <a href="#license">License</a>
 </p>
 
-![Homepage Screenshot](public/screenshots/home.png?raw=true "Homepage Screenshot")
-
----
-
-![Order Screenshot](public/screenshots/order.png?raw=true "Order Screenshot")
-
----
-
-![Stripe Screenshot](public/screenshots/stripe.png?raw=true "Stripe Screenshot")
-
----
-
 ## Demo
 
 Here is a working live demo [here](https://amazon-clone-martstech.vercel.app/)
