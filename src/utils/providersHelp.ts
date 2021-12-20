@@ -3,7 +3,7 @@ import { IChainData } from "./types";
 
 export function getChainData(chainId?: number): IChainData {
   if (!chainId) {
-    return null;
+    return null!;
   }
   const chainData = supportedChains.filter(
     (chain: any) => chain.chainId === chainId
