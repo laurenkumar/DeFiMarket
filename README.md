@@ -14,7 +14,6 @@
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
   <a href="#support">Support</a> •
-  <a href="#license">License</a>
 </p>
 
 ## Demo
