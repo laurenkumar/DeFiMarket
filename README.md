@@ -56,8 +56,6 @@ Then run `yarn dev` to start the application locally
 
 Change the .env.example file to .env.local and fill the empty fields
 
-Test card: 4242 4242 4242 4242
-
 ---
 
 ## Support
