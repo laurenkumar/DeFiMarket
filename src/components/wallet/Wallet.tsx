@@ -173,6 +173,8 @@ export const Wallet = (): JSX.Element => {
           provider.removeListener("disconnect", handleDisconnect);
         }
       };
+    } else {
+      return;
     }
   }, [provider, disconnect]);
 
