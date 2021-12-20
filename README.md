@@ -69,5 +69,5 @@ Whether you use this project, have learned something from it, or just like it, p
 Or
 
 <a href="https://buymeacoffee.com/DeFiMarket">
-   <img width="350px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Buy_Me_a_Coffee_Logo.png/1280px-Buy_Me_a_Coffee_Logo.png">
+   <img width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Buy_Me_a_Coffee_Logo.png/1280px-Buy_Me_a_Coffee_Logo.png">
 </a>
