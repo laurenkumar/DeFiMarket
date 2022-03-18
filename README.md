@@ -12,6 +12,7 @@
   <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
+  <a href="#todo">To Do</a> •  
   <a href="#setup">Setup</a> •
   <a href="#support">Support</a> •
 </p>
@@ -46,6 +47,14 @@ Here is a working live demo [here](https://defimarket.vercel.app/)
 - Webhooks
 - NextAuth
 - Fake Store API to remove on launch
+
+---
+
+## To Do
+
+- Use a decentralized database like GunDb or <a href="https://docs.ethswarm.org/docs/" target="_blank">Swarm</a>
+- See if <a href="https://vite.org/whatIsVite" target="_blank">Vite</a> can be used to make fee-less transactions upon buying
+- Create a messaging app between buyer and seller
 
 ---
 
