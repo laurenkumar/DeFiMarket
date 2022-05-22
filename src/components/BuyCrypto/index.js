@@ -15,7 +15,7 @@ export default function BuyCrypto() {
         decoration="lightblue"
         textTransform="uppercase"
       >
-        Buy Cryptocurrenciess
+        Buy Cryptocurrencies
       </Text>
       <Box alignItems="center">
         <Box
