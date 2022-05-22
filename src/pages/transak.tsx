@@ -3,7 +3,6 @@ import Head from "next/head";
 import BuyCrypto from "../components/BuyCrypto";
 
 export default function Transak() {
-
   return (
     <>
       <Head>

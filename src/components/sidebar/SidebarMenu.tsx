@@ -2,7 +2,7 @@ import BookmarksRoundedIcon from "@material-ui/icons/BookmarksRounded";
 import HomeRoundedIcon from "@material-ui/icons/HomeRounded";
 import ShoppingCartRoundedIcon from "@material-ui/icons/ShoppingCartRounded";
 import WatchLaterRoundedIcon from "@material-ui/icons/WatchLaterRounded";
-import MonetizationOnRounded from '@material-ui/icons/MonetizationOnRounded';
+import MonetizationOnRounded from "@material-ui/icons/MonetizationOnRounded";
 import { observer } from "mobx-react-lite";
 import { useStore } from "stores/store";
 import SidebarMenuItem from "./SidebarMenuItem";

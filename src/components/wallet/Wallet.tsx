@@ -57,7 +57,7 @@ type ActionType =
 const initialState: StateType = {
   provider: null,
   web3Provider: null,
-  address: null || '',
+  address: null || "",
   chainId: null || 56,
 };
 

@@ -46,11 +46,7 @@ const PasswordResetPage: React.FC<PasswordResetPageProps> = () => {
         {({ handleSubmit, errors }) => (
           <Form onSubmit={handleSubmit} autoComplete="off">
             <FormError error={errors.error} />
-            <TextInput
-              name="email"
-              label="Email"
-              type="text"
-            />
+            <TextInput name="email" label="Email" type="text" />
             <Button
               className="w-full uppercase !transform-none mt-4"
               type="submit"
