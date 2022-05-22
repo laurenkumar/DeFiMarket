@@ -10,6 +10,7 @@
 
 <p align="center">•
   <a href="#demo">Demo</a> •
+  <a href="#contact">Contact</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#todo">To Do</a> •  
@@ -21,6 +22,14 @@
 
 Here is a working live demo [here](https://defimarket.vercel.app/)
 
+## Transak Demo
+
+Here is a the transak demo [here](https://vimeo.com/712582503)
+
+## Contact
+
+Mail: lauren_d@outlook.fr
+Discord: dododream21#7208
 ---
 
 ## Key Features
