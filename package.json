@@ -21,6 +21,8 @@
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "@stripe/react-stripe-js": "^1.6.0",
@@ -80,7 +82,7 @@
     "tailwindcss": "^2.2.19",
     "typescript": "^4.4.4"
   },
-    "resolutions": {
+  "resolutions": {
     "@types/react": "17.0.2",
     "@types/react-dom": "17.0.2"
   }
