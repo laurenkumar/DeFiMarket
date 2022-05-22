@@ -19,8 +19,11 @@
     "test-all": "yarn check-format && yarn check-lint && yarn check-types && yarn build"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.6",
+=======
+>>>>>>> 359fce6317422bc6f1195e07dc130e824835d880
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "@stripe/react-stripe-js": "^1.6.0",
@@ -61,8 +64,13 @@
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.2.2",
     "@types/micro": "^7.3.6",
+<<<<<<< HEAD
     "@types/node": "^17.0.21",
     "@types/react": "^17.0.40",
+=======
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.33",
+>>>>>>> 359fce6317422bc6f1195e07dc130e824835d880
     "@types/react-currency-formatter": "^1.1.4",
     "@typescript-eslint/eslint-plugin": "^5.3.0",
     "@typescript-eslint/parser": "^5.3.0",
