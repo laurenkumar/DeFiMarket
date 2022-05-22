@@ -24,7 +24,7 @@ Here is a working live demo [here](https://defimarket.vercel.app/)
 
 ## Transak Demo
 
-Here is a the transak demo [here](https://vimeo.com/712582503)
+Here is the transak demo [here](https://vimeo.com/712582503)
 
 ## Contact
 
