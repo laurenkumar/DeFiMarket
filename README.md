@@ -59,12 +59,34 @@ Discord: dododream21#7208
 
 ---
 
+## Zillica Dapp
+Decentralised Apps ("dApps") are applications that interact with smart contracts on the blockchain. As Zilliqa blockchain is a decentralised network that is not hosted by a single entity, application that sits on the blockchain is decentralised.
+
+An application can have a user-facing components ("client"), which could be a web application or mobile app. These applications can interact with smart contracts on the Zilliqa blockchain.
+
+The entry to Zilliqa blockchain lies on the RPC interface. SDKs are not compulsory for you to interact with the blockchain, but they do make your life easier.
+
+Saw the 0x1, 0x2 on the entities on the blockchain? Those are addresses.
+
+Addresses are an identifier to an entity on the blockchain. An entity on the blockchain can be either a user or a contract.
+
+The contract will be deployed using the Scilla IDE.
+
+## Contract Planning
+The logic of the contract is planned with the point of view of a marketplace. No commission will be taken from the transactions done by the user.
+
+# Listings
+Listings are the products that can be posted on the platform, which are subsequently made available to the buyers.
+
+We allow the creation of user accounts to facilitate using the platform. The accounts can have one of two roles:
+
+A Buyer Account
+A Seller Account
+
 ## To Do
 
-- Use a decentralized database like GunDb or <a href="https://docs.ethswarm.org/docs/" target="_blank">Swarm</a>
-- See if <a href="https://vite.org/whatIsVite" target="_blank">Vite</a> can be used to make fee-less transactions upon buying
+-Write Scilla Contracts for the selling, transactions and profile part
 - Create a messaging app between buyer and seller
-- Host the dapp on <a href="https://fluence.network/" target="_blank">Fluence</a>
 
 ---
 
